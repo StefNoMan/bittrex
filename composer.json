@@ -1,5 +1,5 @@
 {
-    "name": "StefNoMan/bittrex",
+    "name": "stefnoman/bittrex",
     "description": "PHP wrapper for Bittrex API",
     "require": {
         "php": "5.* || 7.*"
